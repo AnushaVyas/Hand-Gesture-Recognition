@@ -1,6 +1,6 @@
 Project Title
 
-Gesture-Based Human–Computer Interaction System
+Hand Gesture Recognition
 
 Overview
 
